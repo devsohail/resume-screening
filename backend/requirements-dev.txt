@@ -1,0 +1,21 @@
+-r requirements.txt
+
+# Development Tools
+ipython==8.20.0
+jupyter==1.0.0
+jupyterlab==4.0.11
+
+# Code Quality
+pylint==3.0.3
+autopep8==2.0.4
+pre-commit==3.6.0
+
+# Testing
+pytest-mock==3.12.0
+pytest-xdist==3.5.0
+coverage[toml]==7.4.1
+
+# Documentation
+mkdocs==1.5.3
+mkdocs-material==9.5.6
+
