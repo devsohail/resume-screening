@@ -150,7 +150,7 @@ sudo usermod -aG docker $USER
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/resume-screening.git
+git clone https://github.com/devsohail/resume-screening.git
 cd resume-screening
 ```
 

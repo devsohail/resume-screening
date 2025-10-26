@@ -16,7 +16,7 @@ The fastest way to get started:
 
 ```bash
 # 1. Clone and enter directory
-git clone https://github.com/yourusername/resume-screening.git
+git clone https://github.com/devsohail/resume-screening.git
 cd resume-screening
 
 # 2. Copy environment file
@@ -49,7 +49,7 @@ For development:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/resume-screening.git
+git clone https://github.com/devsohail/resume-screening.git
 cd resume-screening
 
 # 2. Run setup script

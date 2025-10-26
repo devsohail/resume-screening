@@ -101,11 +101,11 @@ git commit -m "Initial commit: AI-Powered Resume Screening System
 
 ### Step 5: Add Remote Repository
 
-Replace `yourusername` with your actual GitHub username:
+Replace `devsohail` with your actual GitHub username:
 
 ```bash
 # Add GitHub as remote
-git remote add origin https://github.com/yourusername/resume-screening.git
+git remote add origin https://github.com/devsohail/resume-screening.git
 
 # Verify remote was added
 git remote -v
@@ -154,18 +154,18 @@ Don't forget to update the GitHub repository URL in README.md:
 
 ```bash
 # Find and replace the placeholder
-# Change: https://github.com/yourusername/resume-screening.git
+# Change: https://github.com/devsohail/resume-screening.git
 # To: https://github.com/YOUR-ACTUAL-USERNAME/resume-screening.git
 ```
 
 Or use this command:
 
 ```bash
-# Replace yourusername with your actual GitHub username
+# Replace devsohail with your actual GitHub username
 GITHUB_USER="your-actual-username"
-sed -i '' "s/yourusername/$GITHUB_USER/g" README.md
-sed -i '' "s/yourusername/$GITHUB_USER/g" QUICKSTART.md
-sed -i '' "s/yourusername/$GITHUB_USER/g" SETUP_GUIDE.md
+sed -i '' "s/devsohail/$GITHUB_USER/g" README.md
+sed -i '' "s/devsohail/$GITHUB_USER/g" QUICKSTART.md
+sed -i '' "s/devsohail/$GITHUB_USER/g" SETUP_GUIDE.md
 
 # Commit the update
 git add README.md QUICKSTART.md SETUP_GUIDE.md
@@ -377,7 +377,7 @@ gh auth login
 git remote remove origin
 
 # Add correct remote
-git remote add origin https://github.com/yourusername/resume-screening.git
+git remote add origin https://github.com/devsohail/resume-screening.git
 ```
 
 ### Large files being rejected

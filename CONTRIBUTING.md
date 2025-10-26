@@ -36,7 +36,7 @@ Before you begin, ensure you have:
 ### Development Setup
 
 1. **Fork the repository**
-   - Visit https://github.com/yourusername/resume-screening
+   - Visit https://github.com/devsohail/resume-screening
    - Click the "Fork" button in the top-right corner
 
 2. **Clone your fork**
@@ -47,7 +47,7 @@ cd resume-screening
 
 3. **Add upstream remote**
 ```bash
-git remote add upstream https://github.com/yourusername/resume-screening.git
+git remote add upstream https://github.com/devsohail/resume-screening.git
 ```
 
 4. **Set up development environment**

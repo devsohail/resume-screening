@@ -109,7 +109,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/resume-screening.git
+git clone https://github.com/devsohail/resume-screening.git
 cd resume-screening
 ```
 
@@ -493,8 +493,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/resume-screening/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/resume-screening/discussions)
+- **Issues**: [GitHub Issues](https://github.com/devsohail/resume-screening/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/devsohail/resume-screening/discussions)
 
 ## 🗺️ Roadmap
 
